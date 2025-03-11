@@ -14,7 +14,7 @@
 - 🚀 Skilled in **Java, Python, C++, PHP, and JavaScript**
 - 🔒 Currently undertaking **CCNA Security Certification**
 - 🌱 Learning and building projects in **web development & system administration**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/aronsurf) or email at aronsurf@gmail.com
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/aronsurf) or email at aron2106surf@gmail.com
 
 ### Tech Stack
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"></code>
